@@ -1,1 +1,3 @@
-# gaze-augmented-fake-dataset
+# Unveiling the Truth: Exploring Human Gaze Patterns in Fake Images (IEEE Signal Processing Letters)
+
+Dataset coming soon....
