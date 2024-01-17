@@ -10,7 +10,7 @@ This is the **official repository** for the paper "*Unveiling the Truth: Explori
 ## Overview
 
 <p align="center">
-    <img src="teaser.pdf" style="max-width:500px">
+    <img src="teaser.jpg" style="max-width:500px">
 </p>
 
 ## TODO
