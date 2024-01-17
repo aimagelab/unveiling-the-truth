@@ -5,4 +5,6 @@
 [**Marcella Cornia**](https://scholar.google.com/citations?hl=en&user=DzgmSJEAAAAJ),
 [**Rita Cucchiara**](https://scholar.google.com/citations?hl=en&user=OM3sZEoAAAAJ)
 
-Dataset coming soon....
+This is the **official repository** for the paper "*Unveiling the Truth: Exploring Human Gaze Patterns in Fake Images*".
+## TODO
+- [ ] Dataset release
