@@ -8,7 +8,7 @@
 This is the **official repository** for the paper "*Unveiling the Truth: Exploring Human Gaze Patterns in Fake Images*".
 
 ## 📣 Latest News 📣
-- **`30 April 2024`** [Dataset](https://github.com/aimagelab/unveiling-the-truth/releases/download/v0.1.0/dataset.zip) has been released!
+- **`30 April 2024`** Dataset has been released!
 
 ## Overview
 
